@@ -20,6 +20,8 @@ p{
   h1{
     text-align: left;
     padding-bottom: 50px;
+    font-size: 2rem;
+    font-size: clamp(2rem, 0.7179487179487178rem + 5.47008547008547vw, 4rem);
   }
   padding-top: 150px;
   h4{

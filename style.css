@@ -15,7 +15,7 @@
 p{
     width: 40%;
     font-size: 0.80rem;
-    clamp(0.025rem, 0rem + 0.08vi, 0.05rem)
+    clamp(0.019rem, -0.019rem + 0.12vi, 0.056rem)
 }
 
 #projects {
